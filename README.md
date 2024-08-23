@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fruchx
 - 👀 I’m interested in Software
-- 🌱 I’m currently learning C Language
+- 🌱 Front-end React 
 - 💞️ I’m looking to collaborate on ----
 - 📫 How to reach me arda.akca.0707@gmail.com
 
